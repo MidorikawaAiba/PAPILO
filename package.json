@@ -1,0 +1,24 @@
+{
+  "name": "papilo",
+  "version": "1.0.0",
+  "description": "PAPILO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MidorikawaAiba/PAPILO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MidorikawaAiba/PAPILO/issues"
+  },
+  "homepage": "https://github.com/MidorikawaAiba/PAPILO#readme",
+  "dependencies": {
+    "firebase": "^8.0.2",
+    "firebase-admin": "^9.4.1",
+    "firesql": "^2.0.2"
+  }
+}
